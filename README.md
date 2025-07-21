@@ -1,7 +1,6 @@
 # UK Store Sales Dashboard 📊
 
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/d1651319-4284-49c8-be8b-ef867306509d" />
-
+<img width="1600" height="1171" alt="image" src="https://github.com/user-attachments/assets/120ed6ef-eb60-4cc3-9b14-effb877a7d05" />
 
 This is a retail sales analysis project done using **Microsoft Excel**.
 
@@ -10,6 +9,7 @@ This is a retail sales analysis project done using **Microsoft Excel**.
 - Data Cleaning
 - Dashboard Design
 
+<img width="796" height="400" alt="image" src="https://github.com/user-attachments/assets/e3a481de-d3f9-4ba8-a49d-12e0c4554f24" />
 
 
 ## 📈 Dashboard Highlights
